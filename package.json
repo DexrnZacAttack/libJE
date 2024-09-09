@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/node": "^22.5.4",
+    "binaryio.js": "^1.1.0",
+    "nbtify": "^2.0.0"
+  },
+  "name": "libje",
+  "version": "1.0.0",
+  "description": "yet another library for Minecraft, this time for Java Edition. (I need to come up with better names...)",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dexrn ZacAttack <dexrn@hotmail.com> (https://dexrnzacattack.github.io/)",
+  "license": "MIT"
+}
